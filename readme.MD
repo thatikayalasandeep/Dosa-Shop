@@ -1,4 +1,5 @@
 ## Dosa Shop
 
-### Pain Dosa
+### Plain Dosa
 * Dosa Batter
+* light oil
